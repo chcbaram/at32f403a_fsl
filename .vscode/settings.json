@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "usb.h": "c",
+    "usbd_core.h": "c"
+  },
+  "cortex-debug.variableUseNaturalFormat": false
+}
